@@ -627,4 +627,3 @@ int main()
     }
     return 0;
 }
-//https://github.com/zione-kushwaha/Hostel-Management-System.git
